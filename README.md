@@ -8,7 +8,7 @@ This project is made solely by using HTML,CSS and Javascript and majorly fetches
 
 ## Published Site
 
-https://wether-the-weather.netlify.app/
+https://whether-the-weather.netlify.app/
 
 
 
